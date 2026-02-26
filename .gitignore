@@ -1,0 +1,9 @@
+.venv/
+**/Data/
+**/checkpoint*
+**/*.bin
+**/*.safetensors
+**/*.json
+**/events.*
+**/logs/
+**/*.pyc
